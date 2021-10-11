@@ -151,7 +151,7 @@ Software Requirments
 ## Future Scope
 
 * Optimize Flask app.py
-* Some Features want to add
+* Add some Features
 * Front-End 
 
 
