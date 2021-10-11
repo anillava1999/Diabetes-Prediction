@@ -5,7 +5,8 @@
   * Overview
   * Motivation
   * Data Collection
-  * Random Forest
+  * EDA
+  * Applied Machine Learning
   * Deployement on Heroku
   * Installation and Run 
   * Future scope of the project
@@ -37,7 +38,23 @@ Databse Link: [https://www.kaggle.com/uciml/pima-indians-diabetes-database]
 * Check the Correlation with heatmap
 * Handling Imbalanced dataset
 
-## Random Forest(96% Accuracy)
+## Applied Machine Learning
+
+I tried 6 Machine Learning Alogrithms
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* KNN
+* SVM with Different Kernels
+* Naive Bayes
+
+![Screenshot 2021-10-11 at 1 09 04 PM](https://user-images.githubusercontent.com/71332138/136751064-585a4f86-efb5-4dab-bc28-8f9e9c6e8d40.png)
+
+**Then After I choosed Random Forest it has good accuracy and also there is no overfitting problem but you can see Decsion tree has contain Overfitting Problem**
+
+
+![ML](https://user-images.githubusercontent.com/71332138/136750757-d8c78643-bd70-409c-b13c-99ca0c6d8203.jpeg)
+
 
 Introduction
 Random forest is a Supervised Machine Learning Algorithm that is used widely in Classification and Regression problems. It builds decision trees on different samples and takes their majority vote for classification and average in case of regression.
@@ -59,7 +76,7 @@ Before understanding the working of the random forest we must look into the ense
 
 
 Deep Explanation of Random forest(Good Content) : https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
-
+5 Types of Classification Algorithms in Machine Learning Explanation: [https://monkeylearn.com/blog/classification-algorithms/]
 
 
 ## Flask Framework
