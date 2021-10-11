@@ -31,6 +31,12 @@ Diabetes Extracted the Dataset from the Kaggle you can also extract the data fro
 
 Databse Link: [https://www.kaggle.com/uciml/pima-indians-diabetes-database]
 
+## EDA
+
+* Check the NULL vales
+* Check the Correlation with heatmap
+* Handling Imbalanced dataset
+
 ## Random Forest(96% Accuracy)
 
 Introduction
@@ -87,6 +93,9 @@ What is Azure? At its core, Azure is a public cloud computing platform—with so
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot 2021-10-11 at 12 26 03 PM](https://user-images.githubusercontent.com/71332138/136749024-f2b89c2f-b87e-4a73-b672-bd64196cc366.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Installation and Run
 The Code is written in Python 3.9 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
