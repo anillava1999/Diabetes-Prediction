@@ -93,16 +93,17 @@ The Code is written in Python 3.9 If you don't have Python installed you can fin
 
 Install Required Libraries
 
-     Step 1: pip install -r requirements.tx
+     Step 1: pip install -r requirements.txt
      
 Running Project
 
-     Step 2: Streamlit run app.py
+     Step 2: python main.py
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)  ![pandas](https://user-images.githubusercontent.com/71332138/134156736-9dcc4675-e588-42a6-9481-816ac08654ab.png). ![nltk](https://user-images.githubusercontent.com/71332138/134540164-b00fafda-ccde-49ce-a5c5-3019a856f860.png) 
- ![numpy](https://user-images.githubusercontent.com/71332138/134540645-95fa9566-18ca-4719-8cc6-82153e96683c.png) 
+![](https://forthebadge.com/images/badges/made-with-python.svg)  ![pandas](https://user-images.githubusercontent.com/71332138/134156736-9dcc4675-e588-42a6-9481-816ac08654ab.png).
+
+![blog sklearn](https://user-images.githubusercontent.com/71332138/134540412-a009eb7d-f4fa-412f-bc1a-a5c89ba74aa4.png). ![numpy](https://user-images.githubusercontent.com/71332138/134540645-95fa9566-18ca-4719-8cc6-82153e96683c.png) 
                                ![flask](https://user-images.githubusercontent.com/71332138/136525463-d94befe6-f982-4f98-bd1c-833bdbd3c004.png)
    
          
