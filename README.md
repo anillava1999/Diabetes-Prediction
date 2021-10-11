@@ -7,7 +7,7 @@
   * Data Collection
   * EDA
   * Applied Machine Learning
-  * Deployement on Heroku
+  * Deployement on Azure
   * Installation and Run 
   * Future scope of the project
  
