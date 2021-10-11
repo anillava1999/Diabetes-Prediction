@@ -34,7 +34,7 @@ Databse Link: [https://www.kaggle.com/uciml/pima-indians-diabetes-database]
 
 ## EDA
 
-* Check the NULL vales
+* Check the NULL values
 * Check the Correlation with heatmap
 * Handling Imbalanced dataset
 
